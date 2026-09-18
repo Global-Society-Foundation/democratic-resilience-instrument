@@ -53,7 +53,7 @@ Studies fielding the DRI before validation are asked to share anonymised item-le
 
 ## Licence and attribution
 
-The DRI is licensed [CC BY 4.0](LICENSE.md). Contributions are accepted under the same licence. Contributors retain authorship of their contribution and are credited in the changelog and, where the contribution is substantial, in the validation paper.
+The DRI is licensed [CC BY 4.0](LICENSE). Contributions are accepted under the same licence. Contributors retain authorship of their contribution and are credited in the changelog and, where the contribution is substantial, in the validation paper.
 
 ## Contact
 

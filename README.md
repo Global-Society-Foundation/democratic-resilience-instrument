@@ -24,7 +24,7 @@ Civic technology initiatives claim to strengthen democratic resilience. The fiel
 | [`methodology/`](methodology/) | How the instrument is administered, scored and validated — four files, listed below |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to propose a change to item wording, scoring or scope |
 | [`CHANGELOG.md`](CHANGELOG.md) | Every change to the instrument, by version |
-| [`LICENSE.md`](LICENSE.md) | CC BY 4.0 |
+| [`LICENSE`](LICENSE) | CC BY 4.0 |
 
 **The four methodology files**
 
@@ -172,7 +172,7 @@ This table is condensed. The full annex and the complete reference list are in t
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — see [`LICENSE.md`](LICENSE.md).
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — see [`LICENSE`](LICENSE).
 
 Free to reuse and adapt with attribution.
 
