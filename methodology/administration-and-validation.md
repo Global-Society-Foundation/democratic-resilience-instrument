@@ -57,7 +57,7 @@ A comparison (control) group is required to draw inference. **The estimated effe
 | **Waitlist control** | Randomly: half receive the programme during the study, half receive it once the study ends | **Default.** As strong as a randomised control for the study period, and nobody is denied the programme |
 | Matched comparison | Not randomly: recruit non-participants who resemble the treated group on age, education, prior political engagement and country | Weakest. Requires statistical adjustment for any remaining differences, and baseline imbalance must be reported |
 
-All three designs require both groups to be measured in the same calendar window. A waitlist control is assigned at the same time as the treated group and completes both surveys on the same dates, but only receives the civic tech programme afterwards.
+All three designs require both groups to be measured in the same calendar window. A waitlist control is assigned at the same time as the treated group and completes both surveys on the same dates, but only receives the programme afterwards.
 
 ### 4.2 Sample size
 
@@ -80,7 +80,7 @@ The survey is administered in two waves. Both groups (treatment and control) rec
 
 ### 4.5 Language
 
-The instrument is written in English. Version 1.0 is available in English only. Further languages are added as pilot sites are confirmed, or are contributed by adopters.
+The instrument is written in English and is currently available in English only. Further languages are added as pilot sites are confirmed, or are contributed by adopters.
 
 Each language requires four steps ([`bias-mitigation.md`](bias-mitigation.md) §2). Machine translation may be used for the **first draft**, and must be disclosed. It may **not** be used for back-translation. **Native-speaker review** and **cognitive pretesting** are required in every language.
 

@@ -3,9 +3,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22810037.svg)](https://doi.org/10.5281/zenodo.22810037)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-**A shared measurement instrument for evaluating whether civic technology actually strengthens democratic resilience.**
+**A shared measurement instrument for evaluating whether civic initiatives actually strengthen democratic resilience.**
 
-Civic technology initiatives claim to strengthen democratic resilience. The field has no shared way to check. The DRI operationalises democratic resilience — society's capacity to recover from challenges to, and promote renewal in, democratic systems — into twenty items across four dimensions, measured at the level of citizens.
+Civic initiatives — from civic education programmes to citizens' assemblies and participatory apps — claim to strengthen democratic resilience. The field has no shared way to check. The DRI operationalises democratic resilience — society's capacity to recover from challenges to, and promote renewal in, democratic systems — into twenty items across four dimensions, measured at the level of citizens.
 
 > [!NOTE]
 > **This page is a summary. The working paper is the citable source of record.**
@@ -37,9 +37,9 @@ Civic technology initiatives claim to strengthen democratic resilience. The fiel
 
 ## The problem
 
-Democratic resilience is a central concern in Europe and a recurring justification for investment in civic technology. The EU's European Democracy Shield foresees a central role for civic tech, and the proposed AgoraEU programme carries a budget of EUR 8.5 billion in the next multiannual financial framework.
+Democratic resilience is a central concern in Europe and a recurring justification for investment in civic initiatives. The EU's European Democracy Shield foresees a central role for civic tech, and the proposed AgoraEU programme carries a budget of EUR 8.5 billion in the next multiannual financial framework.
 
-Yet the field has no shared measurement standards beyond conceptual frameworks. Evaluations are project- or organisation-specific, which limits the longitudinal data that would show whether civic tools make societies more democratically resilient. Cumulative learning across the field is minimal, and evidence-based investment in democratic infrastructure at scale is hampered as a result.
+Yet the field has no shared measurement standards beyond conceptual frameworks. Evaluations are project- or organisation-specific, which limits the longitudinal data that would show whether civic initiatives make societies more democratically resilient. Cumulative learning across the field is minimal, and evidence-based investment in democratic infrastructure at scale is hampered as a result.
 
 ## The four dimensions
 
@@ -88,7 +88,7 @@ The DRI is positioned as infrastructure for the field, pending empirical validat
 | Reliability and measurement invariance | **Not done** |
 | Translations | **English only** |
 
-We welcome proposals for experiments that apply the DRI to civic technology programmes. See [Collaborate](#collaborate).
+We welcome proposals for experiments that apply the DRI to civic initiatives. See [Collaborate](#collaborate).
 
 ## Using the DRI
 
@@ -120,7 +120,7 @@ Open an issue to propose a change to item wording, scoring or scope — see [`CO
 
 ## Collaborate
 
-We welcome proposals for experiments that apply the DRI to civic technology programmes, and are looking for partner universities, organisations and researchers for pilot studies and co-authorship of the validation paper.
+We welcome proposals for experiments that apply the DRI to civic initiatives, and are looking for partner universities, organisations and researchers for pilot studies and co-authorship of the validation paper.
 
 Contact **Dr. Sophie Vériter** — sophie@globalsocietyfoundation.org
 
@@ -128,28 +128,29 @@ Contact **Dr. Sophie Vériter** — sophie@globalsocietyfoundation.org
 
 Cite the working paper, not this repository.
 
-> Vériter, S. L. (2026). *The Democratic Resilience Instrument (DRI) as an Evaluation Framework for Civic Technology.* Zenodo. v1.0, September 2026. DOI: [10.5281/zenodo.22810038](https://doi.org/10.5281/zenodo.22810038)
+> Vériter, S. L. (2026). *The Democratic Resilience Instrument (DRI) as an Evaluation Framework for Civic Initiatives.* The Global Society Foundation. v1.1, October 2026. DOI: [10.5281/zenodo.23674908](https://doi.org/10.5281/zenodo.23674908)
 
 ```bibtex
 @techreport{veriter2026dri,
   title       = {The Democratic Resilience Instrument (DRI) as an Evaluation
-                 Framework for Civic Technology},
+                 Framework for Civic Initiatives},
   author      = {V{\'e}riter, Sophie L.},
-  institution = {Zenodo},
+  institution = {The Global Society Foundation},
   year        = {2026},
-  month       = {9},
-  version     = {1.0},
-  doi         = {10.5281/zenodo.22810038},
-  url         = {https://doi.org/10.5281/zenodo.22810038}
+  month       = {10},
+  version     = {1.1},
+  doi         = {10.5281/zenodo.23674908},
+  url         = {https://doi.org/10.5281/zenodo.23674908}
 }
 ```
 
-**Two DOIs, and when to use which.** Zenodo mints a permanent DOI for the record as a whole and a separate one for each version.
+**Two kinds of DOI, and when to use which.** Zenodo mints a permanent DOI for the record as a whole and a separate one for each version.
 
 | DOI | Resolves to | Use it when |
 |---|---|---|
 | [`10.5281/zenodo.22810037`](https://doi.org/10.5281/zenodo.22810037) | Always the latest version | Linking to the paper in general — a website, an email, a reading list |
-| [`10.5281/zenodo.22810038`](https://doi.org/10.5281/zenodo.22810038) | v1.0 specifically, permanently | **Citing in academic work**, or recording which version you fielded |
+| [`10.5281/zenodo.23674908`](https://doi.org/10.5281/zenodo.23674908) | v1.1 specifically, permanently | **Citing in academic work**, or recording which version you fielded |
+| [`10.5281/zenodo.22810038`](https://doi.org/10.5281/zenodo.22810038) | v1.0 specifically, permanently | Citing or recording v1.0, if that is the version you used |
 
 If you report DRI results, cite the version DOI. Scores are only comparable within a major version — see [Versioning](#versioning).
 
